@@ -1,0 +1,1 @@
+Stock News Notifications (APIs), Quizzler App (APIs), Flash Card App, Password Manager App, Promodoro Timer App, Map Project, Pong Game with OOP, Snake Game with OOP, Mail Merge Project, Blackjack, CoffeeMachine with OOP, Quiz Game, Spirograph, Hirst Painting
